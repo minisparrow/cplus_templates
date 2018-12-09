@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ml/Documents/cplus_templates/ch2_functional_template/max/max.cpp
+iostream
+-
+string
+-
+max.hpp
+/home/ml/Documents/cplus_templates/ch2_functional_template/max/max.hpp
+
+/home/ml/Documents/cplus_templates/ch2_functional_template/max/max.hpp
+
